@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.vaccination-coverage-card {
+  background-color: #1c1c2b;
+  border: 0px;
+  width: 1000px;
+  padding-top: 26px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.vaccination-coverage-heading {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-bottom: 22px;
+}
